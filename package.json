@@ -5,12 +5,12 @@
     "discord-api-types": "^0.37.1",
     "discord-buttons": "^4.0.0-deprecated",
     "discord.js": "^14.1.2",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "glob": "^8.0.3"
   },
   "name": "epsi-bot",
   "version": "1.0.0",
   "main": "src/bot.js",
-  "devDependencies": {},
   "scripts": {
     "test": "node ."
   },
